@@ -1,0 +1,5 @@
+numpy==1.26.4
+opencv-python>=4.6
+mediapipe>=0.10
+PyQt5>=5.15
+msvc-runtime
